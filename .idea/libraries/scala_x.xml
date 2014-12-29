@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="scala-x">
+    <CLASSES>
+      <root url="file:///usr/local/opt/scala/idea/lib" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file:///usr/local/opt/scala/idea/lib" recursive="false" />
+  </library>
+</component>
